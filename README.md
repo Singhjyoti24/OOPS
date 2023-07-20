@@ -14,12 +14,9 @@ With OOPS, you can focus on designing and implementing your software's functiona
 4. Polymorphism: Write code that can work with objects of different classes, promoting flexibility and extensibility in your projects.
 5. Data Encapsulation: Protect sensitive data and provide controlled access through getters and setters, ensuring data integrity and security.
 6. Modularity: Divide your code into small, manageable modules to make it easier to develop, test, and maintain.
-7. Error Handling: Implement exception handling mechanisms to gracefully handle errors and prevent application crashes.
-Documentation: Encourage good coding practices by providing clear and concise documentation to make your codebase more approachable for other developers.
+7. Documentation: Encourage good coding practices by providing clear and concise documentation to make your codebase more approachable for other developers.
 
 # Contributing
 We welcome contributions from the community to enhance and improve OOPS.
 
-# License
-OOPS is open-source software released under the MIT License. Feel free to use, modify, and distribute it for both personal and commercial purposes.
 
